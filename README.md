@@ -1,1 +1,1 @@
-The wiki of this repository is continuously updated with the changes in the official Kratos wiki. On top of that i add some material which are not in the official Kratos wiki.
+The wiki of this repository is continuously updated with the changes in the official Kratos wiki. On top of that i add some material which can't be in the official Kratos wiki e.g. because they are not proofed or they might be too much.
